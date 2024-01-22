@@ -21,7 +21,7 @@ root.title("PDF Text Extractor")
 
 filename_label = tkinter.Label(root, text="No File Selected")
 outputfile_text = tkinter.Text(root)
-openfile_button = tkinter.Button(root, text="Open PDF File", command=open_filem)
+openfile_button = tkinter.Button(root, text="Open PDF File", command=open_file)
 
 filename_label.pack()
 outputfile_text.pack()
