@@ -1,2 +1,2 @@
-tkinter==8.6.10,
+tkinter
 PyPDF2
